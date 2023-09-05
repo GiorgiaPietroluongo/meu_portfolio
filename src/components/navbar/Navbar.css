@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    
+    margin: 50px 0 0 0;
+  }
+  .nome {
+    margin: 0 0 0 5%;
+    flex: 1;
+    justify-content: right;
+  }
+  .navbar-content{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+    margin: 0 50px 0 0;
+  
+  }
+  .navbar-content-children {
+    padding: 0 100px 0 0;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 50px 20% 50px;
+    flex-direction: column;
+   
+  }
